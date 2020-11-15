@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView4" type="id" />
+    <item name="DispName" type="id" />
+    <item name="button3" type="id" />
+    <item name="buttonquit" type="id" />
+    <item name="tvque" type="id" />
+    <item name="answersgrp" type="id" />
+    <item name="radioButton" type="id" />
+    <item name="radioButton2" type="id" />
+    <item name="radioButton3" type="id" />
+    <item name="radioButton4" type="id" />
+    <item name="tvres" type="id" />
+    <item name="tvres2" type="id" />
+    <item name="tvres3" type="id" />
+    <item name="btnRestart" type="id" />
+</resources>
